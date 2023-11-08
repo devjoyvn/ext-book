@@ -1,0 +1,303 @@
+[
+    {
+        "name": "Truyện QQ",
+        "author": "uBook",
+        "slug": "truyen_qq",
+        "version": 1,
+        "source": "https://truyenqqvn.com",
+        "regexp": "(truyenqqvn).(com)",
+        "description": "Đọc truyện trên trang Truyện QQ",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tabsHome": [
+            {
+                "title": "Truyện Mới cập nhật",
+                "url": "/truyen-moi-cap-nhat.html"
+            },
+            {
+                "title": "Top Ngày",
+                "url": "/top-ngay.html"
+            },
+            {
+                "title": "Top Tuần",
+                "url": "/top-tuan.html"
+            },
+            {
+                "title": "Top Tháng",
+                "url": "/top-thang.html"
+            },
+            {
+                "title": "Truyện Yêu Thích",
+                "url": "/truyen-yeu-thich.html"
+            },
+            {
+                "title": "Truyện Tranh Mới",
+                "url": "/truyen-tranh-moi.html"
+            },
+            {
+                "title": "Truyện Hoàn Thành",
+                "url": "/truyen-hoan-thanh.html"
+            },
+            {
+                "title": "Truyện Ngẫu Nhiên",
+                "url": "/truyen-ngau-nhien.html"
+            }
+        ],
+        "search": "true",
+        "genre": "true",
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/truyen_qq/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/truyen_qq/icon.png"
+    },
+    {
+        "name": "Say Truyện",
+        "author": "uBook",
+        "slug": "say_truyen",
+        "version": 1,
+        "source": "https://saytruyenmoi.com",
+        "regexp": "(saytruyenmoi).(com)",
+        "description": "Đọc truyện trên trang Say Truyện",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tabsHome": [
+            {
+                "title": "Truyện mới cập nhật",
+                "url": "/"
+            },
+            {
+                "title": "Manhwa",
+                "url": "/genre/manhwa"
+            },
+            {
+                "title": "Manga",
+                "url": "/genre/manga"
+            },
+            {
+                "title": "Romance",
+                "url": "/genre/romance"
+            }
+        ],
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/say_truyen/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/say_truyen/icon.png"
+    },
+    {
+        "name": "Phê truyện",
+        "author": "uBook",
+        "slug": "phe_truyen",
+        "version": 1,
+        "source": "https://phetruyen.net",
+        "regexp": "(phetruyen).(net)",
+        "description": "Đọc truyện trên trang Phê truyện",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tabsHome": [
+            {
+                "title": "Truyện mới cập nhật",
+                "url": "/"
+            },
+            {
+                "title": "Truyện mới",
+                "url": "/new-stories"
+            },
+            {
+                "title": "Truyện Full",
+                "url": "/completed"
+            }
+        ],
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/phe_truyen/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/phe_truyen/icon.png"
+    },
+    {
+        "name": "Net Truyện",
+        "slug": "net_truyen",
+        "author": "uBook",
+        "version": 1,
+        "source": "https://www.nettruyenus.com",
+        "regexp": "(www.)?(nettruyenus).(com)",
+        "description": "Đọc truyện trên trang Net Truyện",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tabsHome": [
+            {
+                "title": "Mới cập nhật",
+                "url": "/tim-truyen"
+            },
+            {
+                "title": "Truyện mới",
+                "url": "/tim-truyen?status=-1&sort=15"
+            },
+            {
+                "title": "Top all",
+                "url": "/tim-truyen?status=-1&sort=10"
+            },
+            {
+                "title": "Top tháng",
+                "url": "/tim-truyen?status=-1&sort=11"
+            },
+            {
+                "title": "Top tuần",
+                "url": "/tim-truyen?status=-1&sort=12"
+            },
+            {
+                "title": "Top ngày",
+                "url": "/tim-truyen?status=-1&sort=13"
+            },
+            {
+                "title": "Theo dõi",
+                "url": "/tim-truyen?status=-1&sort=20"
+            },
+            {
+                "title": "Bình luận",
+                "url": "/tim-truyen?status=-1&sort=25"
+            },
+            {
+                "title": "Truyện Full",
+                "url": "/truyen-full"
+            },
+            {
+                "title": "Tất cả - Số chapter",
+                "url": "/tim-truyen?status=-1&sort=30"
+            },
+            {
+                "title": "Truyện con trai",
+                "url": "/truyen-con-trai"
+            },
+            {
+                "title": "Truyện con gái",
+                "url": "/truyen-con-gai"
+            }
+        ],
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/net_truyen/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/net_truyen/icon.png"
+    },
+    {
+        "name": "Manga18fx",
+        "author": "uBook",
+        "slug": "manga18fx",
+        "version": 3,
+        "source": "https://manga18fx.com",
+        "regexp": "(manga18fx).(com)",
+        "description": "Đọc truyện 18+ trên trang Manga18fx",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tabsHome": [
+            {
+                "title": "Latest Release",
+                "url": "/"
+            },
+            {
+                "title": "Manhwa Online",
+                "url": "/manga-genre/manhwa"
+            },
+            {
+                "title": "Manhua Online",
+                "url": "/manga-genre/manhua"
+            },
+            {
+                "title": "Manhwa Raw",
+                "url": "/manga-genre/raw"
+            }
+        ],
+        "tag": "18+",
+        "search": "true",
+        "genre": "true",
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/manga18fx/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/manga18fx/icon.png"
+    },
+    {
+        "name": "HHTQ",
+        "author": "uBook",
+        "slug": "hhtq",
+        "version": 2,
+        "source": "https://hhhtq.net",
+        "regexp": "(hhhtq).(net)",
+        "description": "Xem anime trang HHTQ",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "video",
+        "tabsHome": [
+            {
+                "title": "Cổ Trang",
+                "url": "/show/Cổ+Trang--------page---/"
+            },
+            {
+                "title": "Hiện Đại",
+                "url": "/type/Hi%E1%BB%87n+%C4%90%E1%BA%A1i/"
+            },
+            {
+                "title": "Đam Mỹ",
+                "url": "/type/Đam+Mỹ/"
+            },
+            {
+                "title": "Huyền Huyễn",
+                "url": "https://hhhtq.net/type/Huye%CC%82%CC%80n+Huye%CC%82%CC%83n/"
+            },
+            {
+                "title": "Viễn Tưởng",
+                "url": "/type/Viễn+Tưởng/"
+            },
+            {
+                "title": "Chiếu Rạp",
+                "url": "/type/Chiếu+Rạp/"
+            }
+        ],
+        "search": true,
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/hhtq/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/hhtq/icon.png"
+    },
+    {
+        "name": "Anime Hay",
+        "author": "uBook",
+        "slug": "anime_hay",
+        "version": 4,
+        "source": "https://animehay.city",
+        "regexp": "(animehay).(city)",
+        "description": "Xem anime trang Animehay",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "video",
+        "tabsHome": [
+            {
+                "title": "Phim mới cập nhật",
+                "url": "/phim-moi-cap-nhap"
+            },
+            {
+                "title": "Phim lẻ",
+                "url": "/loc-phim/W1tdLFtdLFs5OTk5XSxbXV0="
+            }
+        ],
+        "search": true,
+        "genre": true,
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/anime_hay/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/anime_hay/icon.png"
+    },
+    {
+        "name": "Anime47",
+        "author": "uBook",
+        "slug": "anime47",
+        "version": 2,
+        "source": "https://anime47.com",
+        "regexp": "(anime47).(com)",
+        "description": "Xem anime trang Anime47",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "video",
+        "tabsHome": [
+            {
+                "title": "Mới cập nhật",
+                "url": ""
+            },
+            {
+                "title": "Xem nhiều trong ngày",
+                "url": "/danh-sach/xem-nhieu-trong-ngay.html"
+            }
+        ],
+        "search": false,
+        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/anime47/extension.zip",
+        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/anime47/icon.png"
+    }
+]

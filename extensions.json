@@ -174,41 +174,6 @@
         "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/net_truyen/icon.png"
     },
     {
-        "name": "Manga18fx",
-        "author": "uBook",
-        "slug": "manga18fx",
-        "version": 3,
-        "source": "https://manga18fx.com",
-        "regexp": "(manga18fx).(com)",
-        "description": "Đọc truyện 18+ trên trang Manga18fx",
-        "locale": "vi_VN",
-        "language": "javascript",
-        "type": "comic",
-        "tabsHome": [
-            {
-                "title": "Latest Release",
-                "url": "/"
-            },
-            {
-                "title": "Manhwa Online",
-                "url": "/manga-genre/manhwa"
-            },
-            {
-                "title": "Manhua Online",
-                "url": "/manga-genre/manhua"
-            },
-            {
-                "title": "Manhwa Raw",
-                "url": "/manga-genre/raw"
-            }
-        ],
-        "tag": "18+",
-        "search": "true",
-        "genre": "true",
-        "path": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/manga18fx/extension.zip",
-        "icon": "https://raw.githubusercontent.com/lamphuchai-dev/uBook/main/ext-book/extensions/manga18fx/icon.png"
-    },
-    {
         "name": "HHTQ",
         "author": "uBook",
         "slug": "hhtq",
